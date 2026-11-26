@@ -1,0 +1,3 @@
+# 统一行尾为 LF：本仓库是 Obsidian 笔记库，编辑器（Obsidian）保存为 LF。
+# 全局 core.autocrlf=true 会期望工作区为 CRLF，导致「内容相同却显示已修改」，因此在此固定策略。
+* text=auto eol=lf
