@@ -16,7 +16,7 @@
 | `AGENT.md` | 本文件。 |
 | `问题集/` | 知识库【问题集】，`索引.md` 是索引，其余是单题笔记。 |
 | `数据结构与算法集/` | 知识库【数据结构与算法集】，`索引.md` 是索引，`代码模板库.md` 是 E3，其余是算法笔记。 |
-| `学习管理/学习指南.md` | ACM 大纲 TODO 清单，大纲来源：内置种子清单（`verified: false`），对照 NOI 大纲 https://www.noi.cn/upload/resources/file/2023/03/15/1fa58eac9c412e01ce3c89c761058a43.pdf。 |
+| `学习管理/学习指南.md` | ACM 大纲 TODO 清单，大纲来源：ICPC Curriculum Committee 官方课程大纲 https://curriculum.u.icpc.global/curriculum/（2026-11-27 核实，`verified: true`）；NOI 大纲 https://www.noi.cn/upload/resources/file/2023/03/15/1fa58eac9c412e01ce3c89c761058a43.pdf 仅作参考对照。 |
 | `学习管理/学习进度.md` | 每个知识点的进度状态。 |
 | `学习管理/复习队列.md` | E1 间隔复习队列。 |
 | `学习管理/错题本.md` | E2 错题本。 |
